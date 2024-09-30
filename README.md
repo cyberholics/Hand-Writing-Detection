@@ -1,1 +1,1 @@
-# Hand Writing Deetection
+# Hand Writing Detection
