@@ -7,13 +7,13 @@ Here is how to test the model and get inferences for your handwritten texts
 
 ### 1. Clone the repository
 
-git clone https://github.com/cyberholics/Hand-Writing-Detection.git
-cd Hand-Writing-Detection ```
+`git clone https://github.com/cyberholics/Hand-Writing-Detection.git`
+`cd Hand-Writing-Detection `
 
 ### 2. Set up the environment using Conda
 
-conda env create -f environment.yml
-conda activate HWR 
+`conda env create -f environment.yml`
+`conda activate HWR`
 
 ### 3. Run the Flask App
 
