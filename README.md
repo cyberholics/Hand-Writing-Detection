@@ -1,4 +1,4 @@
-# Handwritten Text Recognition Flask App
+# Handwritten Text Recognition
 
 This  uses the Hugging Face `transformers` model to recognise handwritten text from an uploaded image.
 
