@@ -32,6 +32,9 @@ Here’s a comparative table highlighting the key differences between AdCreative
 | **Stock Resources and Custom Media Creation** | Standard premium stock images and AI-generated images; limited control for unique image creation.                                                                               | Access to 135M+ premium images and 59M+ videos; proprietary AI models for generating unique images, providing more visual control.                                                            |
 | **Workflow and Campaign Management**      | Lacks campaign management capabilities; requires external tools for publishing and ad campaign management.                                                                      | All-in-one platform with social media scheduling, ad publishing, and campaign management (both automatic and manual settings) for a comprehensive ad workflow.                                 |
 | **Output Quality**                        | Good output, suitable for slower-paced content, but less effective for dynamic or attention-grabbing visuals.                                                                   | High output quality, optimized for both slow and fast-paced videos with advanced features like combining images, videos, and dynamic effects for engaging content.
+
+
+
 This will start the server, and you can access the app at http://127.0.0.1:5000 in your browser.
 
 ### 4. Usage
