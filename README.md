@@ -1,6 +1,9 @@
 # Handwritten Text Recognition
 
 This  uses the Hugging Face `transformers` model to recognise handwritten text from an uploaded image.
+## Model in action
+
+[Watch the video](https://youtu.be/Il7Y1UyMASo)
 
 ## Setup Instructions
 Here is how to test the model and get inferences for your handwritten texts
