@@ -22,9 +22,9 @@ Here is how to test the model and get inferences for your handwritten texts
 `conda env create -f environment.yml`
 `conda activate HWR`
 
-### 3. Run the Flask App
+### 3. Run the App
 
-After setting up the environment, run the app: `python app.py`
+After setting up the environment, run the app: `python inference_with_trocr_+_gradio_demo.py`
 
 This will start the server, and you can access the app at http://127.0.0.1:5000 in your browser.
 
