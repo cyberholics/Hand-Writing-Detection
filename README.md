@@ -7,7 +7,7 @@ This  uses the Hugging Face `transformers` model to recognise handwritten text f
 
 
 
-[Watch the video]
+[Click on the image to watch the video]
 
 ## Setup Instructions
 Here is how to test the model and get inferences for your handwritten texts
