@@ -3,8 +3,8 @@
 This  uses the Hugging Face `transformers` model to recognise handwritten text from an uploaded image.
 ## Model in action
 
-[![Model Inference](![Screenshot 2024-11-01 122304](https://github.com/user-attachments/assets/fa09aab3-f726-47d4-a84c-0ceca79e2cd8)
-)](https://youtu.be/Il7Y1UyMASo))
+[![Model Inference](https://github.com/user-attachments/assets/fa09aab3-f726-47d4-a84c-0ceca79e2cd8)](https://youtu.be/Il7Y1UyMASo)
+
 
 
 [Watch the video]
